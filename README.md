@@ -2,7 +2,7 @@
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_arith.all;
-
+ 
 ENTITY water_led is					--配置实体
 	port(
 		CLK,CLR : in std_logic;
